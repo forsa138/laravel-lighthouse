@@ -32,7 +32,7 @@ class Controller extends BaseController
         $platform = $request->post('platform_id');
         $category = $request->post('category_id');
 
-
+        //comentario nuevo
 
         $dataCia = array('cia_name'=>$cia_name,'cia_web'=>$cia_web,'platform_id'=>$platform,'category_id'=>$category);
 
