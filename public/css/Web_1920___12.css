@@ -1,0 +1,1497 @@
+.mediaViewInfo {
+    --web-view-name: Web 1920 – 12;
+    --web-view-id: Web_1920___12;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-center-horizontally: true;
+    --web-center-vertically: true;
+    --web-enable-deep-linking: true;
+}
+
+:root {
+    --web-view-ids: Web_1920___12;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+#Web_1920___12 {
+    position: absolute;
+    box-sizing: border-box;
+    transform: translateX(-50%) translateY(-50%);
+    left: 50%;
+    top: 50%;
+    background: #E5E5E5;
+    width: 1596px;
+    height: 1076px;
+    background-color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    --web-view-name: Web 1920 – 12;
+    --web-view-id: Web_1920___12;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-center-horizontally: true;
+    --web-center-vertically: true;
+    --web-enable-deep-linking: true;
+}
+
+.Trazado_7099 {
+    overflow: visible;
+    position: absolute;
+    width: 781.408px;
+    height: 1077.954px;
+    left: 0px;
+    top: -1.954px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_7100 {
+    overflow: visible;
+    position: absolute;
+    width: 781.408px;
+    height: 1077.954px;
+    transform: matrix(1, 0, 0, 1, 822, -1.9543) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Rect_ngulo_1 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 590px;
+    height: 798px;
+    left: 920px;
+    top: 168px;
+}
+
+.Pol_gono_10 {
+    overflow: visible;
+    position: absolute;
+    width: 62.351px;
+    height: 19.984px;
+    transform: matrix(1, 0, 0, 1, 919.5645, 129.2883) rotate(0deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Pol_gono_8 {
+    overflow: visible;
+    position: absolute;
+    width: 62.351px;
+    height: 19.984px;
+    transform: matrix(1, 0, 0, 1, 861.8166, 194.8327) rotate(-90deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Pol_gono_16 {
+    overflow: visible;
+    position: absolute;
+    width: 62.351px;
+    height: 19.985px;
+    transform: matrix(1, 0, 0, 1, 1487.8428, 188.8327) rotate(90deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Pol_gono_17 {
+    overflow: visible;
+    position: absolute;
+    width: 62.351px;
+    height: 19.985px;
+    transform: matrix(1, 0, 0, 1, 1487.8428, 907.1997) rotate(90deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Trazado_13 {
+    overflow: visible;
+    position: absolute;
+    width: 3px;
+    height: 114.929px;
+    transform: matrix(1, 0, 0, 1, 902.7627, 474.7608) rotate(180deg);
+    transform-origin: center;
+    left: -5px;
+    top: 0px;
+}
+
+.Trazado_82 {
+    overflow: visible;
+    position: absolute;
+    width: 3px;
+    height: 114.929px;
+    transform: matrix(1, 0, 0, 1, 1508.7627, 474.7608) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Trazado_15 {
+    overflow: visible;
+    position: absolute;
+    width: 3px;
+    height: 114.929px;
+    transform: matrix(1, 0, 0, 1, 1206.0073, 91.8233) rotate(-90deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Pol_gono_11 {
+    overflow: visible;
+    position: absolute;
+    width: 62.351px;
+    height: 19.984px;
+    transform: matrix(1, 0, 0, 1, 1429.6475, 129.2883) rotate(0deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Pol_gono_12 {
+    overflow: visible;
+    position: absolute;
+    width: 62.351px;
+    height: 19.984px;
+    transform: matrix(1, 0, 0, 1, 1429.6473, 964.8408) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Pol_gono_13 {
+    overflow: visible;
+    position: absolute;
+    width: 62.351px;
+    height: 19.984px;
+    transform: matrix(1, 0, 0, 1, 919.5643, 964.8408) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Pol_gono_9 {
+    overflow: visible;
+    position: absolute;
+    width: 62.351px;
+    height: 19.984px;
+    transform: matrix(1, 0, 0, 1, 861.8166, 902.9049) rotate(-90deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Trazado_16 {
+    overflow: visible;
+    position: absolute;
+    width: 3px;
+    height: 114.929px;
+    transform: matrix(1, 0, 0, 1, 1197.0073, 906.908) rotate(-90deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+#Solicita_tu_demo_hoy__Cambia_t {
+    position: absolute;
+    left: 74px;
+    top: 212px;
+    overflow: hidden;
+    width: 658px;
+    height: 103px;
+    text-align: left;
+    font-family: Varela Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Rect_ngulo_47 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 676.239px;
+    height: 341.617px;
+    left: 72.546px;
+    top: 553px;
+}
+
+#Roier_ai_es_todo_lo_que_espera {
+    position: absolute;
+    left: 74px;
+    top: 366px;
+    overflow: hidden;
+    width: 658px;
+    height: 123px;
+    text-align: left;
+    font-family: Varela Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#I_love_Roier__It_has_allowed_m {
+    position: absolute;
+    left: 106px;
+    top: 652px;
+    overflow: hidden;
+    width: 595px;
+    height: 126px;
+    text-align: left;
+    font-family: Varela Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Por_Cliente_Feliz {
+    position: absolute;
+    left: 126px;
+    top: 818px;
+    overflow: hidden;
+    width: 182px;
+    height: 39px;
+    text-align: left;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Powered_by {
+    position: absolute;
+    left: 580px;
+    top: 824px;
+    overflow: hidden;
+    width: 85px;
+    height: 39px;
+    text-align: left;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Lunada {
+    position: absolute;
+    overflow: visible;
+    width: 658px;
+    height: 19px;
+    left: 73px;
+    top: 553px;
+}
+
+#Grupo_969 {
+    position: absolute;
+    width: 168.548px;
+    height: 33.992px;
+    left: 207.157px;
+    top: 920.493px;
+    overflow: visible;
+}
+
+#Visa_Inc__logo {
+    position: absolute;
+    width: 80.694px;
+    height: 26.115px;
+    left: 87.854px;
+    top: 4.02px;
+    overflow: visible;
+}
+
+.polygon9 {
+    overflow: visible;
+    position: absolute;
+    width: 10.625px;
+    height: 25.281px;
+    left: 28.43px;
+    top: 0.458px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path11 {
+    overflow: visible;
+    position: absolute;
+    width: 19.608px;
+    height: 26.115px;
+    left: 39.055px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path13 {
+    overflow: visible;
+    position: absolute;
+    width: 23.456px;
+    height: 25.28px;
+    left: 57.238px;
+    top: 0.458px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path15 {
+    overflow: visible;
+    position: absolute;
+    width: 23.051px;
+    height: 25.254px;
+    left: 6.832px;
+    top: 0.458px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path17 {
+    overflow: visible;
+    position: absolute;
+    width: 15.87px;
+    height: 13.744px;
+    left: 0px;
+    top: 0.458px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#MasterCard_Logo {
+    position: absolute;
+    width: 56.776px;
+    height: 33.992px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#g10305 {
+    position: absolute;
+    width: 56.776px;
+    height: 33.992px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.path2268 {
+    overflow: visible;
+    position: absolute;
+    width: 33.983px;
+    height: 33.992px;
+    left: 22.792px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path1350 {
+    overflow: visible;
+    position: absolute;
+    width: 33.983px;
+    height: 33.983px;
+    left: 0px;
+    top: 0.004px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.use9412 {
+    overflow: visible;
+    position: absolute;
+    width: 1.099px;
+    height: 1.099px;
+    left: 54.521px;
+    top: 25.879px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#g16480 {
+    position: absolute;
+    width: 54.529px;
+    height: 9.51px;
+    left: 1.083px;
+    top: 12.608px;
+    overflow: visible;
+}
+
+#g13802 {
+    position: absolute;
+    width: 53.548px;
+    height: 9.152px;
+    left: 0px;
+    top: 0.358px;
+    overflow: visible;
+}
+
+.path13804 {
+    overflow: visible;
+    position: absolute;
+    width: 3.674px;
+    height: 8.201px;
+    left: 18.749px;
+    top: 0.941px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path13806 {
+    overflow: visible;
+    position: absolute;
+    width: 5.802px;
+    height: 7.339px;
+    left: 22.12px;
+    top: 1.797px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path13808 {
+    overflow: visible;
+    position: absolute;
+    width: 6.259px;
+    height: 9.152px;
+    left: 31.808px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path13810 {
+    overflow: visible;
+    position: absolute;
+    width: 5.847px;
+    height: 7.304px;
+    left: 8.233px;
+    top: 1.826px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path13812 {
+    overflow: visible;
+    position: absolute;
+    width: 5.069px;
+    height: 7.256px;
+    left: 13.743px;
+    top: 1.837px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path13814 {
+    overflow: visible;
+    position: absolute;
+    width: 6.99px;
+    height: 8.727px;
+    left: 46.558px;
+    top: 0.376px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path13816 {
+    overflow: visible;
+    position: absolute;
+    width: 8.883px;
+    height: 8.637px;
+    left: 0px;
+    top: 0.363px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path13818 {
+    overflow: visible;
+    position: absolute;
+    width: 5.094px;
+    height: 7.64px;
+    left: 27.816px;
+    top: 1.372px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#use14699 {
+    position: absolute;
+    width: 5.846px;
+    height: 7.304px;
+    left: 37.175px;
+    top: 1.826px;
+    overflow: visible;
+}
+
+.path13810_1_ {
+    overflow: visible;
+    position: absolute;
+    width: 5.846px;
+    height: 7.304px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.use14701 {
+    overflow: visible;
+    position: absolute;
+    width: 4.195px;
+    height: 7.013px;
+    left: 42.997px;
+    top: 2px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#g10289 {
+    position: absolute;
+    width: 54.001px;
+    height: 8.961px;
+    left: 0.528px;
+    top: 0px;
+    overflow: visible;
+}
+
+.path4157 {
+    overflow: visible;
+    position: absolute;
+    width: 3.596px;
+    height: 8.201px;
+    left: 18.693px;
+    top: 0.75px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path4155 {
+    overflow: visible;
+    position: absolute;
+    width: 5.746px;
+    height: 7.34px;
+    left: 22.063px;
+    top: 1.607px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path4151 {
+    overflow: visible;
+    position: absolute;
+    width: 6.158px;
+    height: 8.961px;
+    left: 31.854px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path4149 {
+    overflow: visible;
+    position: absolute;
+    width: 5.847px;
+    height: 7.303px;
+    left: 8.178px;
+    top: 1.635px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path4145 {
+    overflow: visible;
+    position: absolute;
+    width: 5.069px;
+    height: 7.257px;
+    left: 13.688px;
+    top: 1.646px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path4139 {
+    overflow: visible;
+    position: absolute;
+    width: 6.99px;
+    height: 8.713px;
+    left: 46.501px;
+    top: 0.198px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path4133 {
+    overflow: visible;
+    position: absolute;
+    width: 8.827px;
+    height: 8.615px;
+    left: 0px;
+    top: 0.195px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path4131 {
+    overflow: visible;
+    position: absolute;
+    width: 4.411px;
+    height: 7.103px;
+    left: 27.76px;
+    top: 1.719px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#use8523 {
+    position: absolute;
+    width: 5.846px;
+    height: 7.303px;
+    left: 37.505px;
+    top: 1.635px;
+    overflow: visible;
+}
+
+.path4149_1_ {
+    overflow: visible;
+    position: absolute;
+    width: 5.846px;
+    height: 7.303px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#use8525 {
+    position: absolute;
+    width: 4.411px;
+    height: 7.103px;
+    left: 42.95px;
+    top: 1.719px;
+    overflow: visible;
+}
+
+.path4131_1_ {
+    overflow: visible;
+    position: absolute;
+    width: 4.411px;
+    height: 7.103px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.text9407 {
+    overflow: visible;
+    position: absolute;
+    width: 1.099px;
+    height: 1.099px;
+    left: 52.902px;
+    top: 7.739px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#Grupo_970 {
+    position: absolute;
+    width: 168.548px;
+    height: 33.992px;
+    left: 430.157px;
+    top: 920.493px;
+    overflow: visible;
+}
+
+#Visa_Inc__logo_A6_Group_12 {
+    position: absolute;
+    width: 80.694px;
+    height: 26.115px;
+    left: 87.854px;
+    top: 4.02px;
+    overflow: visible;
+}
+
+.polygon9_A6_Path_36 {
+    overflow: visible;
+    position: absolute;
+    width: 10.625px;
+    height: 25.281px;
+    left: 28.43px;
+    top: 0.458px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path11_A6_Path_37 {
+    overflow: visible;
+    position: absolute;
+    width: 19.608px;
+    height: 26.115px;
+    left: 39.055px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path13_A6_Path_38 {
+    overflow: visible;
+    position: absolute;
+    width: 23.456px;
+    height: 25.28px;
+    left: 57.238px;
+    top: 0.458px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path15_A6_Path_39 {
+    overflow: visible;
+    position: absolute;
+    width: 23.051px;
+    height: 25.254px;
+    left: 6.832px;
+    top: 0.458px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path17_A6_Path_40 {
+    overflow: visible;
+    position: absolute;
+    width: 15.87px;
+    height: 13.744px;
+    left: 0px;
+    top: 0.458px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#MasterCard_Logo_A6_Group_13 {
+    position: absolute;
+    width: 56.776px;
+    height: 33.992px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#g10305_A6_Group_14 {
+    position: absolute;
+    width: 56.776px;
+    height: 33.992px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.path2268_A6_Path_41 {
+    overflow: visible;
+    position: absolute;
+    width: 33.983px;
+    height: 33.992px;
+    left: 22.792px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path1350_A6_Path_42 {
+    overflow: visible;
+    position: absolute;
+    width: 33.983px;
+    height: 33.983px;
+    left: 0px;
+    top: 0.004px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.use9412_A6_Path_43 {
+    overflow: visible;
+    position: absolute;
+    width: 1.099px;
+    height: 1.099px;
+    left: 54.521px;
+    top: 25.879px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#g16480_A6_Group_15 {
+    position: absolute;
+    width: 54.529px;
+    height: 9.51px;
+    left: 1.083px;
+    top: 12.608px;
+    overflow: visible;
+}
+
+#g13802_A6_Group_16 {
+    position: absolute;
+    width: 53.548px;
+    height: 9.152px;
+    left: 0px;
+    top: 0.358px;
+    overflow: visible;
+}
+
+.path13804_A6_Path_44 {
+    overflow: visible;
+    position: absolute;
+    width: 3.674px;
+    height: 8.201px;
+    left: 18.749px;
+    top: 0.941px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path13806_A6_Path_45 {
+    overflow: visible;
+    position: absolute;
+    width: 5.802px;
+    height: 7.339px;
+    left: 22.12px;
+    top: 1.797px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path13808_A6_Path_46 {
+    overflow: visible;
+    position: absolute;
+    width: 6.259px;
+    height: 9.152px;
+    left: 31.808px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path13810_A6_Path_47 {
+    overflow: visible;
+    position: absolute;
+    width: 5.847px;
+    height: 7.304px;
+    left: 8.233px;
+    top: 1.826px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path13812_A6_Path_48 {
+    overflow: visible;
+    position: absolute;
+    width: 5.069px;
+    height: 7.256px;
+    left: 13.743px;
+    top: 1.837px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path13814_A6_Path_49 {
+    overflow: visible;
+    position: absolute;
+    width: 6.99px;
+    height: 8.727px;
+    left: 46.558px;
+    top: 0.376px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path13816_A6_Path_50 {
+    overflow: visible;
+    position: absolute;
+    width: 8.883px;
+    height: 8.637px;
+    left: 0px;
+    top: 0.363px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path13818_A6_Path_51 {
+    overflow: visible;
+    position: absolute;
+    width: 5.094px;
+    height: 7.64px;
+    left: 27.816px;
+    top: 1.372px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#use14699_A6_Group_17 {
+    position: absolute;
+    width: 5.846px;
+    height: 7.304px;
+    left: 37.175px;
+    top: 1.826px;
+    overflow: visible;
+}
+
+.path13810_1__A6_Path_52 {
+    overflow: visible;
+    position: absolute;
+    width: 5.846px;
+    height: 7.304px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.use14701_A6_Path_53 {
+    overflow: visible;
+    position: absolute;
+    width: 4.195px;
+    height: 7.013px;
+    left: 42.997px;
+    top: 2px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#g10289_A6_Group_18 {
+    position: absolute;
+    width: 54.001px;
+    height: 8.961px;
+    left: 0.528px;
+    top: 0px;
+    overflow: visible;
+}
+
+.path4157_A6_Path_54 {
+    overflow: visible;
+    position: absolute;
+    width: 3.596px;
+    height: 8.201px;
+    left: 18.693px;
+    top: 0.75px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path4155_A6_Path_55 {
+    overflow: visible;
+    position: absolute;
+    width: 5.746px;
+    height: 7.34px;
+    left: 22.063px;
+    top: 1.607px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path4151_A6_Path_56 {
+    overflow: visible;
+    position: absolute;
+    width: 6.158px;
+    height: 8.961px;
+    left: 31.854px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path4149_A6_Path_57 {
+    overflow: visible;
+    position: absolute;
+    width: 5.847px;
+    height: 7.303px;
+    left: 8.178px;
+    top: 1.635px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path4145_A6_Path_58 {
+    overflow: visible;
+    position: absolute;
+    width: 5.069px;
+    height: 7.257px;
+    left: 13.688px;
+    top: 1.646px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path4139_A6_Path_59 {
+    overflow: visible;
+    position: absolute;
+    width: 6.99px;
+    height: 8.713px;
+    left: 46.501px;
+    top: 0.198px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path4133_A6_Path_60 {
+    overflow: visible;
+    position: absolute;
+    width: 8.827px;
+    height: 8.615px;
+    left: 0px;
+    top: 0.195px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.path4131_A6_Path_61 {
+    overflow: visible;
+    position: absolute;
+    width: 4.411px;
+    height: 7.103px;
+    left: 27.76px;
+    top: 1.719px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#use8523_A6_Group_19 {
+    position: absolute;
+    width: 5.846px;
+    height: 7.303px;
+    left: 37.505px;
+    top: 1.635px;
+    overflow: visible;
+}
+
+.path4149_1__A6_Path_62 {
+    overflow: visible;
+    position: absolute;
+    width: 5.846px;
+    height: 7.303px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#use8525_A6_Group_20 {
+    position: absolute;
+    width: 4.411px;
+    height: 7.103px;
+    left: 42.95px;
+    top: 1.719px;
+    overflow: visible;
+}
+
+.path4131_1__A6_Path_63 {
+    overflow: visible;
+    position: absolute;
+    width: 4.411px;
+    height: 7.103px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.text9407_A6_Path_64 {
+    overflow: visible;
+    position: absolute;
+    width: 1.099px;
+    height: 1.099px;
+    left: 52.902px;
+    top: 7.739px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#noun_secure_282889 {
+    position: absolute;
+    width: 25.572px;
+    height: 34.287px;
+    left: 663.597px;
+    top: 818.493px;
+    overflow: visible;
+}
+
+.Trazado_81 {
+    overflow: visible;
+    position: absolute;
+    width: 25.572px;
+    height: 34.287px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_7092 {
+    overflow: visible;
+    position: absolute;
+    width: 31.299px;
+    height: 30.444px;
+    left: 110.232px;
+    top: 591.706px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_7093 {
+    overflow: visible;
+    position: absolute;
+    width: 31.299px;
+    height: 30.444px;
+    left: 188.232px;
+    top: 591.706px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_7094 {
+    overflow: visible;
+    position: absolute;
+    width: 31.299px;
+    height: 30.444px;
+    left: 149.232px;
+    top: 591.706px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_7095 {
+    overflow: visible;
+    position: absolute;
+    width: 31.299px;
+    height: 30.444px;
+    left: 227.232px;
+    top: 591.706px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_7096 {
+    overflow: visible;
+    position: absolute;
+    width: 31.299px;
+    height: 30.444px;
+    left: 266.232px;
+    top: 591.706px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.roierazul {
+    position: absolute;
+    overflow: visible;
+    width: 132px;
+    height: 34px;
+    left: 67px;
+    top: 83px;
+}
+
+.Rect_ngulo_2 {
+    position: absolute;
+    overflow: visible;
+    width: 257px;
+    height: 53px;
+    left: 1070px;
+    top: 848px;
+}
+
+#_Sigamos_adelante_ {
+    position: absolute;
+    left: 1100px;
+    top: 862px;
+    width: 199px;
+    height: 25px;
+    text-align: left;
+    font-family: Varela Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Trazado_51 {
+    overflow: visible;
+    position: absolute;
+    width: 29.795px;
+    height: 30.744px;
+    left: 967px;
+    top: 235.437px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_7097 {
+    overflow: visible;
+    position: absolute;
+    width: 199px;
+    height: 4px;
+    left: 996.5px;
+    top: 249.975px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.L_nea_287 {
+    overflow: visible;
+    position: absolute;
+    width: 197px;
+    height: 4px;
+    left: 1220.5px;
+    top: 249.975px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_62 {
+    overflow: visible;
+    position: absolute;
+    width: 29.795px;
+    height: 30.744px;
+    left: 1414.878px;
+    top: 235.437px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Trazado_7101 {
+    overflow: visible;
+    position: absolute;
+    width: 29.795px;
+    height: 30.744px;
+    left: 1192.878px;
+    top: 235.437px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#Paso_1 {
+    position: absolute;
+    left: 967px;
+    top: 280.944px;
+    overflow: visible;
+    width: 71px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Varela Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#____Paso_2 {
+    position: absolute;
+    left: 1162px;
+    top: 280.944px;
+    overflow: visible;
+    width: 93px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Varela Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Paso_3 {
+    position: absolute;
+    left: 1374.782px;
+    top: 280.944px;
+    overflow: visible;
+    width: 71px;
+    white-space: nowrap;
+    text-align: right;
+    font-family: Varela Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: rgba(190, 190, 190, 1);
+}
+
+#Reg_strate_o_con_ctate_con_ {
+    position: absolute;
+    left: 967px;
+    top: 372px;
+    overflow: hidden;
+    width: 479px;
+    height: 32px;
+    text-align: left;
+    font-family: Varela Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Grupo_971 {
+    position: absolute;
+    width: 478.237px;
+    height: 71.732px;
+    left: 966.546px;
+    top: 707px;
+    overflow: visible;
+}
+
+#Nombre_ {
+    position: absolute;
+    left: 0.454px;
+    top: 0px;
+    overflow: visible;
+    width: 79px;
+    white-space: nowrap;
+    line-height: 23px;
+    margin-top: -2.5px;
+    text-align: left;
+    font-family: Varela Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#terminos {
+    text-align: left;
+    font-family: Varela Round;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.Rect_ngulo_43 {
+    position: absolute;
+    overflow: visible;
+    width: 478.236px;
+    height: 40.766px;
+    left: 0px;
+    top: 30.966px;
+}
+
+#Personal {
+    position: absolute;
+    left: 15.454px;
+    top: 42px;
+    overflow: visible;
+    width: 58px;
+    white-space: nowrap;
+    line-height: 23px;
+    margin-top: -4.5px;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Trazado_84 {
+    overflow: visible;
+    position: absolute;
+    width: 16.325px;
+    height: 9.576px;
+    left: 448.691px;
+    top: 46.614px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Rect_ngulo_44 {
+    position: absolute;
+    overflow: visible;
+    width: 478.236px;
+    height: 40.766px;
+    left: 0px;
+    top: 30.966px;
+}
+
+#Grupo_972 {
+    position: absolute;
+    width: 478.237px;
+    height: 71.198px;
+    left: 966.546px;
+    top: 614px;
+    overflow: visible;
+}
+
+#Contrase_a_ {
+    position: absolute;
+    left: 0.454px;
+    top: 0px;
+    overflow: visible;
+    width: 106px;
+    white-space: nowrap;
+    line-height: 23px;
+    margin-top: -2.5px;
+    text-align: left;
+    font-family: Varela Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Rect_ngulo_43_A6_Rectangle_9 {
+    position: absolute;
+    overflow: visible;
+    width: 478.236px;
+    height: 40.766px;
+    left: 0px;
+    top: 30.433px;
+}
+
+#Personal_A6_Text_14 {
+    position: absolute;
+    left: 15.454px;
+    top: 42px;
+    overflow: visible;
+    width: 58px;
+    white-space: nowrap;
+    line-height: 23px;
+    margin-top: -4.5px;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Trazado_84_A6_Path_76 {
+    overflow: visible;
+    position: absolute;
+    width: 16.325px;
+    height: 9.576px;
+    left: 448.691px;
+    top: 46.081px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Rect_ngulo_44_A6_Rectangle_10 {
+    position: absolute;
+    overflow: visible;
+    width: 478.236px;
+    height: 40.766px;
+    left: 0px;
+    top: 30.433px;
+}
+
+#Grupo_973 {
+    position: absolute;
+    width: 478.237px;
+    height: 71.665px;
+    left: 966.546px;
+    top: 520px;
+    overflow: visible;
+}
+
+#Email_ {
+    position: absolute;
+    left: 0.454px;
+    top: 0px;
+    overflow: visible;
+    width: 56px;
+    white-space: nowrap;
+    line-height: 23px;
+    margin-top: -2.5px;
+    text-align: left;
+    font-family: Varela Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Rect_ngulo_43_A6_Rectangle_11 {
+    position: absolute;
+    overflow: visible;
+    width: 478.236px;
+    height: 40.766px;
+    left: 0px;
+    top: 30.899px;
+}
+
+#Personal_A6_Text_16 {
+    position: absolute;
+    left: 15.454px;
+    top: 42px;
+    overflow: visible;
+    width: 58px;
+    white-space: nowrap;
+    line-height: 23px;
+    margin-top: -4.5px;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Trazado_84_A6_Path_77 {
+    overflow: visible;
+    position: absolute;
+    width: 16.325px;
+    height: 9.576px;
+    left: 448.691px;
+    top: 46.547px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Rect_ngulo_44_A6_Rectangle_12 {
+    position: absolute;
+    overflow: visible;
+    width: 478.236px;
+    height: 40.766px;
+    left: 0px;
+    top: 30.899px;
+}
+
+.googleboton {
+    position: absolute;
+    overflow: visible;
+    width: 58px;
+    height: 58px;
+    left: 958px;
+    top: 431px;
+}
