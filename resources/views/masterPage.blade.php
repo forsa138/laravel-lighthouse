@@ -1714,12 +1714,12 @@
 
                 <rect fill="rgba(255,255,255,1)" id="Rect_ngulo_1" rx="0" ry="0" x="0" y="0" width="572" height="780"></rect>
 
-{{--                    <grid>--}}
-{{--                        <form action="/insert" method="post">--}}
-{{--                            @csrf--}}
-{{--                            @include('inc.userData')--}}
-{{--                        </form>--}}
-{{--                    </grid>--}}
+                    <grid>
+                        <form>
+                            @csrf
+                            @include('welcome')
+                        </form>
+                    </grid>
 
 
         </svg>

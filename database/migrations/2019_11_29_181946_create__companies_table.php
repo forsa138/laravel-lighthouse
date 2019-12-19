@@ -16,13 +16,12 @@ class CreateCompaniesTable extends Migration
         Schema::create('_companies', function (Blueprint $table) {
             $table->engine='InnoDB';
             $table->bigIncrements('id');
-            $table->bigInteger('user_id')->unsigned();
+            $table->string('user_email');
             $table->string('cia_name');
             $table->string('cia_web');
             $table->bigInteger('platform_id')->unsigned();
             $table->bigInteger('category_id')->unsigned();
 
-            $table->foreign('user_id')->references('id')->on('users');
             $table->foreign('platform_id')->references('id')->on('platforms');
             $table->foreign('category_id')->references('id')->on('categories');
 

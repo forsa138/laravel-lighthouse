@@ -1,16 +1,6 @@
-{{--
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
-    <h1>Datos guardados!</h1>
-    <a href="{{url('/')}}">Volver</a>
-</html>
-
-
-
-
-
-nuevo estilo de stepper
+{{--nuevo estilo de stepper--}}
 
 
 <html>
@@ -65,7 +55,7 @@ nuevo estilo de stepper
                 <br>
                 <div class="step-actions">
                     <button class="waves-effect waves-dark btn next-step" data-validator="validateStepOne">CONTINUE</button>
-                </div>
+                </div>a
             </div>
         </li>
         <li class="step">
@@ -513,4 +503,3 @@ return false;
 return valid;
 };
 </script>
---}}

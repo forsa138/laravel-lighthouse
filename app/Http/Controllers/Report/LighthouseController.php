@@ -18,13 +18,12 @@ class LighthouseController extends Controller
 
     public function report(Request $request)
     {
-        $url = $request->input('url');
+/*        $url = $request->input('url');
 
         $endpoint="localhost:3000/report/".urlencode($url);
 
         $client = new Client();
         $res = $client->getAsync($endpoint);
-
         $data=$res->wait()->getBody();
         $obj = json_decode($data, true);
 
@@ -42,15 +41,19 @@ class LighthouseController extends Controller
 
         $pwa = $obj['data']['categories']['pwa']['score'];
         echo "Progressive Web App: $pwa \n <br>";
+*/
 
 
+
+        //return redirect()->to('datamail');
 
         ###muestra categorias del json
         //return ($obj["data"]['categories']);
         //return $res->wait()->getBody();
 
-
     }
+
+
 
 
 }

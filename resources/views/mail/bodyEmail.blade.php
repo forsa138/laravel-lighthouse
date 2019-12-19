@@ -1,19 +1,7 @@
+<?php use App\Http\Controllers\Controller;  ?>
 
 <html>
+<form action="/result" method="get">
 
-    <p><strong>Performance</strong></p>
-    <p>
-
-    </p>
-
-    <p><strong>Performance</strong></p>
-
-    <p><strong>Performance</strong></p>
-
-    <p><strong>Performance</strong></p>
-
-    <p><strong>Performance</strong></p>
-
-
-
+</form>
 </html>

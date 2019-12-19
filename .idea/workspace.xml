@@ -5,9 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51227e6e-3fd6-4af7-9cb6-cf2c23051672" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/crearUsuario.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/crearUsuario.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Companies.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Companies.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Report/LighthouseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Report/LighthouseController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Mail/TestEmail.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Mail/TestEmail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_29_181946_create__companies_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_11_29_181946_create__companies_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/form2.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/form2.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/inc/companyData.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/inc/companyData.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/inc/dataForm.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/inc/dataForm.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/inc/sendEmail.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/inc/sendEmail.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/inc/userData.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/inc/userData.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/insertData.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/insertData.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/mail/bodyEmail.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/mail/bodyEmail.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/mail/emailTest.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/mail/emailTest.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/masterPage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/masterPage.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,6 +148,7 @@
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
       <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/vendor/s-ichikawa/laravel-sendgrid-driver" />
     </include_path>
   </component>
   <component name="ProjectId" id="1TwJAEuav9pwSFXq2Zs4X7TOqfK" />
@@ -177,7 +200,9 @@
       <workItem from="1574704369466" duration="63785000" />
       <workItem from="1575054703716" duration="18699000" />
       <workItem from="1575302343018" duration="60475000" />
-      <workItem from="1575650203848" duration="27900000" />
+      <workItem from="1575650203848" duration="28014000" />
+      <workItem from="1575994769604" duration="33785000" />
+      <workItem from="1576244433542" duration="56427000" />
     </task>
     <servers />
   </component>
@@ -189,7 +214,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

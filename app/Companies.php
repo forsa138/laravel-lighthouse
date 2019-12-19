@@ -8,7 +8,7 @@ class Companies extends Model
 {
 
     protected $fillable = [
-        'user_id', 'cia_name','cia_web','platform_id', 'category_id'
+        'user_id','cia_name','cia_web','platform_id', 'category_id'
     ];
 
 

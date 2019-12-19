@@ -179,8 +179,7 @@ return [
 
         App\Providers\DynamicClassname::class,
         App\Providers\DynamicPlatformname::class,
-
-
+        App\Providers\UserProvider::class,
     ],
 
     /*

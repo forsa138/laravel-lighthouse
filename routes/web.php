@@ -19,6 +19,16 @@ Route::get('/', function () {
 Route::get('/prueba',function (){
     return view('welcome');
 });
+Route::get('/pruebaCia', function (){
+    return view('insertCia');
+});
+
+// VISTA DEL MAIL A ENVIAR
+Route::get('datamail', function (){
+    return view('inc.dataForm');
+});
+
+Route::post('/logout','Controller@logout');
 
 //INSERTAR DATOS
 //Route::post('/insert', 'Controller@insert'); //datos de usuario
@@ -26,8 +36,17 @@ Route::get('/prueba',function (){
 //Route::post('/insertCategory','Controller@insertCategories');
 //Route::post('/insertPlatform','Controller@insertPlatform');
 
-##### insertData (user-cia juntos)
+
+
+##### save cia - sendmail
 Route::post('/save', 'Controller@Save');
+
+Route::get('/result','Controller@Save');
+
+
+
+
+Route::get('/email','Controller@getEmail');
 
 //ruta a form de creacion de usuario directo
 Route::get('user',function (){

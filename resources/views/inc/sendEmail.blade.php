@@ -1,4 +1,3 @@
 <form>
-    <p>La info sera enviad al tu correo</p>
-    <a href="{{url('/')}}">Volver</a>
+    <label><strong>Exediste el limite de consultas</strong></label>
 </form>
