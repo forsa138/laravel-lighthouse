@@ -11,17 +11,25 @@ class TestEmail extends Mailable
 {
     use Queueable, SerializesModels;
 
-    public $msg;
+
+    //public $msg;
+    public $demo;
+
 
     /**
      * Create a new message instance.
      *
      * @return void
      */
-    public function __construct($msg)
-    {
-        $this->msg = $msg;
+//    public function __construct($msg)
+//    {
+//        $this->msg = $msg;
+//
+//    }
 
+    public function __construct($demo)
+    {
+        $this->demo = $demo;
     }
 
     /**
@@ -36,12 +44,9 @@ class TestEmail extends Mailable
         $subject = 'Resultado de medición';
         $name = 'Contacto';
 
-        return $this->view('mail.emailTest')
-            ->from($address, $name)
+        return $this->from($address)
             ->cc($cc)
-            ->subject($subject)
-            ->with([ 'test_message' => $this->msg['message'] ]
-            );
+            ->view('mail.emailTest');
 
 
     }

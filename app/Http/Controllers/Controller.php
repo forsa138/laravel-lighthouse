@@ -19,6 +19,7 @@ use Illuminate\Support\Facades\Mail;
 
 class Controller extends BaseController
 {
+
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 
     public static function Save(Request $req)
@@ -61,22 +62,52 @@ class Controller extends BaseController
 
         // envio de correo con info de lighthouse
 
-        $msg = ['message'=>'Performance: '.$performance .
-                            'Accessibility: '.$accessibility.'<br>' .
-                            'Best Practices: '.$best_practices.'<br>'.
-                            'SEO: '.$seo.'<br>'.
-                            'Progressive Web App: '.$pwa.'<br>'];
+        $r_perf='Performance: '.$performance*100 .'%';
+        $r_acc='Accessibility: '.$accessibility*100 . '%';
+        $r_best='Best Practices: '.$best_practices*100 .'%';
+        $r_seo='SEO: '.$seo*100 . '%';
+        $r_pwa='Progressive Web App: '.$pwa*100 .'%';
 
-        Mail::to($user_email)->send(new TestEmail($msg));
+        //$result= $r_perf . '<br>'.$r_acc . '<br>'.$r_best . '<br>'.$r_seo . '<br>'.$r_pwa;
+        //$result= [$r_perf,$r_acc ,$r_best ,$r_seo ,$r_pwa];
 
-        //echo $msg;
-        return redirect('/');
+        $objDemo = new \stdClass();
+        $objDemo->demo_perf = $performance*100;
+        $objDemo->demo_acc = $accessibility*100;
+        $objDemo->demo_best = $best_practices*100;
+        $objDemo->demo_seo = $seo*100;
+        $objDemo->demo_pwa = $pwa*100;
+        $objDemo->demo_web = $cia_web;
+
+        $objDemo->sender = 'Roier.AI';
+
+        Mail::to($user_email)->send(new TestEmail($objDemo));
+
+        //echo $result;
+
+        //$msg = ['message'=>$result[0][1][2]];
+
+
+//        $msg = ['message'=>('Performance: '.$performance .'<br>'.
+//                            'Accessibility: '.$accessibility.'<br>' .
+//                            'Best Practices: '.$best_practices.'<br>'.
+//                            'SEO: '.$seo.'<br>'.
+//                            'Progressive Web App: '.$pwa.'<br>')];
+
+//        Mail::to($user_email)->send(new TestEmail($msg));
+
     }
 
+    public static function getName()
+    {
+
+        $user_name = User::orderBy('id', 'desc')->select('name')->firstOrFail();
+        return $user_name['name'];
 
 
+    }
 
-    public static function Last(){
+        public static function Last(){
 
         $user= User::all('id');
         $id=$user->last(); // muestra el ultimo ID de usuario creado en la BD

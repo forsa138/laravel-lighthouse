@@ -40,7 +40,6 @@ Route::post('/logout','Controller@logout');
 
 ##### save cia - sendmail
 Route::post('/save', 'Controller@Save');
-
 Route::get('/result','Controller@Save');
 
 
@@ -81,21 +80,4 @@ Route::get('light',function (){
 //corre proceso de lighthouse
 Route::get('report', 'Report\LighthouseController@report');
 
-//envio de correo
-//Route::get('/testmail', function (){
-//
-//    Mail::send('mail.emailTest',[], function ($message){
-//        $message->from('contacto@roier.ai', 'Contacto');
-//        $message->bcc('franco@roier.ai','Franco')->subject('Prueba de correo');
-//
-//
-//    });
-//
-//    return redirect('/mailmessage');
-//
-////    $data = ['message' => 'This is a test!'];
-////
-////    Mail::to('franco@roier.ai')->send(new TestEmail($data));
-//
-//});
 

@@ -1,22 +1,23 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
-    <title>Resultado de medición</title>
-</head>
-    <body>
-        <h2>Test Email</h2>
-
-        <p>{{ $test_message }}</p>
-
-    </body>
-</html>
 
 
+<p>Hello {{\App\Http\Controllers\Controller::getName()}}!</p>
+<p>This is a demo for testing purposes!</p>
 
-{{--
-    <h2>Test Email</h2>
-    {{App\Http\Controllers\Report\LighthouseController::report}}
---}}
+<p>Website summary of {{$demo->demo_web}}:</p>
+
+<div>
+    <p><b>Performance:</b>&nbsp;{{ $demo->demo_perf }}%</p>
+    <p><b>Accessibility:</b>&nbsp;{{ $demo->demo_acc }}%</p>
+    <p><b>Best Practices:</b>&nbsp;{{ $demo->demo_best }}%</p>
+    <p><b>SEO:</b>&nbsp;{{ $demo->demo_seo }}%</p>
+    <p><b>Progressive Web App:</b>&nbsp;{{ $demo->demo_pwa }}%</p>
+
+
+</div>
+
+Thank You,
+<br/>
+<i>{{ $demo->sender }}</i>
+
+
 
