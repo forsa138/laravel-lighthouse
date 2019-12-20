@@ -68,8 +68,6 @@ class Controller extends BaseController
         $r_seo='SEO: '.$seo*100 . '%';
         $r_pwa='Progressive Web App: '.$pwa*100 .'%';
 
-        //$result= $r_perf . '<br>'.$r_acc . '<br>'.$r_best . '<br>'.$r_seo . '<br>'.$r_pwa;
-        //$result= [$r_perf,$r_acc ,$r_best ,$r_seo ,$r_pwa];
 
         $objDemo = new \stdClass();
         $objDemo->demo_perf = $performance*100;
@@ -84,18 +82,6 @@ class Controller extends BaseController
         Mail::to($user_email)->send(new TestEmail($objDemo));
 
         return redirect('https://roier.ai');
-        //echo $result;
-
-        //$msg = ['message'=>$result[0][1][2]];
-
-
-//        $msg = ['message'=>('Performance: '.$performance .'<br>'.
-//                            'Accessibility: '.$accessibility.'<br>' .
-//                            'Best Practices: '.$best_practices.'<br>'.
-//                            'SEO: '.$seo.'<br>'.
-//                            'Progressive Web App: '.$pwa.'<br>')];
-
-//        Mail::to($user_email)->send(new TestEmail($msg));
 
     }
 
@@ -125,26 +111,8 @@ class Controller extends BaseController
         $user= User::orderBy('id','desc')->select('email')->firstOrFail();
         return $user['email'];
 
-//        $user =Auth::user();
-//        return $user->name;
 
     }
 
-
-    //REGISTRAR DATOS DE USUARIO EN LA BD
-//    public function insert(Request $request)
-//    {
-//        //return $request->all();
-//
-//        $name = $request->input('name');
-//        $email = $request->input('email');
-//        $password = $request->input('password');
-//
-//        $data = array('name'=>$name,'email'=>$email,'password'=>$password);
-//
-//        DB::table('users')->insert($data);
-//
-//        return redirect()->to('/pruebaCia');
-//    }
 
 }
