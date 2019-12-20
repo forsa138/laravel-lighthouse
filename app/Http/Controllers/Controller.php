@@ -83,6 +83,7 @@ class Controller extends BaseController
 
         Mail::to($user_email)->send(new TestEmail($objDemo));
 
+        return redirect('https://roier.ai');
         //echo $result;
 
         //$msg = ['message'=>$result[0][1][2]];
